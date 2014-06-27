@@ -1,7 +1,7 @@
 javascript-unit-tests-lab
 =========================
 
-Playing with unit tests frameworks for javascript
+Playing with unit tests frameworks for javascript.
 
 ## Some players of this game:
 
@@ -12,7 +12,7 @@ Playing with unit tests frameworks for javascript
 - [UnitJS](http://unitjs.com/)
 - [YUI Test](http://yuilibrary.com/yui/docs/test/)
 
-### Other tools for TDD
+### Other tools for TDD/BDD
 - [jQuery's TestSwarm](http://swarm.jquery.org/) (distributed and cross-browser)
 - [Buster.js](busterjs.org)
 - [Sinon.js](http://sinonjs.org/) (test spies, stubs and mocks)
