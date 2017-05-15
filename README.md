@@ -8,7 +8,7 @@ Playing with unit tests frameworks for javascript.
 ### The leader unit tests frameworks
 - [QUnit](http://qunitjs.com/)
 - [Jasmine](http://jasmine.github.io/)
-- [Mocha](http://visionmedia.github.io/mocha/)
+- [Mocha](http://mochajs.org/)
 - [UnitJS](http://unitjs.com/)
 - [YUI Test](http://yuilibrary.com/yui/docs/test/)
 
